@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I am Manan! 👋  
+- 🛠️ I'm currently working on: Weekly projects to learn and explore Python, Web Development, and UI/UX Design.
 
-<!--
-**mananrewri/mananrewri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 I'm looking to collaborate on: Open-source projects related to web development, automation, and UI/UX design.
 
-Here are some ideas to get you started:
+- ✋ I'm looking for help with: Advanced React, integrating Node.js with different databases, and improving my design skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning: Python 🐍, Web Development 🕸️ (HTML, SCSS, React, Node.js), and UI/UX Design 🎨 with Figma.
+
+- 💬 Ask me about: My weekly projects, design tips, and learning journey!
+
+- ⚡ Fun fact: I love creating both functional backend systems and sleek, user-friendly interfaces with great designs
+---
